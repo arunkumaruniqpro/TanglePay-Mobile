@@ -23,7 +23,7 @@
     "@iota/util.js": "^1.8.6",
     "@iota/util.js-next": "npm:@iota/util.js@next",
     "@ledgerhq/cryptoassets": "^9.2.0",
-    "@ledgerhq/hw-app-eth": "6.32.2",
+    "@ledgerhq/hw-app-eth": "6.35.6",
     "@ledgerhq/react-native-hid": "^6.29.1",
     "@ledgerhq/react-native-hw-transport-ble": "^6.28.4",
     "@react-native-clipboard/clipboard": "^1.8.4",
