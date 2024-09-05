@@ -23,7 +23,7 @@
     "@iota/util.js": "^1.8.6",
     "@iota/util.js-next": "npm:@iota/util.js@next",
     "@ledgerhq/cryptoassets": "^9.2.0",
-    "@ledgerhq/hw-app-eth": "6.32.2",
+    "@ledgerhq/hw-app-eth": "6.34.0",
     "@ledgerhq/react-native-hid": "^6.29.1",
     "@ledgerhq/react-native-hw-transport-ble": "^6.28.4",
     "@react-native-clipboard/clipboard": "^1.8.4",
@@ -52,7 +52,7 @@
     "process": "^0.11.0",
     "pubsub-js": "^1.9.4",
     "react": "18.2.0",
-    "react-native": "0.72.3",
+    "react-native": "0.74.0",
     "react-native-biometrics": "^3.0.1",
     "react-native-ble-plx": "^2.0.3",
     "react-native-camera": "^4.2.1",
@@ -94,7 +94,7 @@
     "tanglepay": "^2.7.1",
     "unorm": "^1.6.0",
     "url": "^0.10.3",
-    "web3": "1.7.3",
+    "web3": "4.0.1",
     "yup": "^0.32.9"
   },
   "devDependencies": {
