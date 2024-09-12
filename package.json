@@ -52,7 +52,7 @@
     "process": "^0.11.0",
     "pubsub-js": "^1.9.4",
     "react": "18.2.0",
-    "react-native": "0.72.3",
+    "react-native": "0.73.0",
     "react-native-biometrics": "^3.0.1",
     "react-native-ble-plx": "^2.0.3",
     "react-native-camera": "^4.2.1",
@@ -94,7 +94,7 @@
     "tanglepay": "^2.7.1",
     "unorm": "^1.6.0",
     "url": "^0.10.3",
-    "web3": "1.7.3",
+    "web3": "4.0.1",
     "yup": "^0.32.9"
   },
   "devDependencies": {
